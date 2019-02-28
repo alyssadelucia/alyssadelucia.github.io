@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://0.0.0.0:8080/example/</loc>
+<lastmod>2019-02-28T06:12:21+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/about/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/assets/bower_components/katex/dist/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/assets/cv.pdf</loc>
+<lastmod>2019-02-28T05:35:31+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/assets/Resume.pdf</loc>
+<lastmod>2019-02-28T06:12:21+00:00</lastmod>
+</url>
+</urlset>
