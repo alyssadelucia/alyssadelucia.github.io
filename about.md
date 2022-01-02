@@ -19,8 +19,8 @@ hide_description: true
 image: /assets/img/headshot.jpg
 
 # Setting `menu` will generate an entry in the sidebar.
-menu: true
-order: 4
+#menu: true
+#order: 1
 ---
 
 I am a lizard person.

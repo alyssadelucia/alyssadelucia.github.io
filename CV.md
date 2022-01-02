@@ -2,5 +2,5 @@
 redirect_to: assets/cv.pdf
 title: CV
 menu: true
-order: 2
+order: 3
 ---
