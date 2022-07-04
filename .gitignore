@@ -1,4 +1,6 @@
 # Cache
+Gemfile.lock
+.jekyll-cache
 vendor/
 .sass-cache/
 .DS_Store
