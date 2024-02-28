@@ -1,6 +1,8 @@
 // You can add CSS rules here that will be included in Hydejack's CSS file
 body {
   --border-color: #B2B2B2; /* originally #ebebeb */
+  text-align: justify;
+  text-justify: inter-word;
 }
 .page-title{
   color: #666699;
