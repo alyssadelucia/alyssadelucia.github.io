@@ -7,6 +7,9 @@ body {
 }
 
 /**** TIMELINE *****/
+ul.timeline > li > p.timeline-img {
+  height: 20px
+}
 ul.timeline > li > p.header {
   display: inline;
   font-weight: 500;
