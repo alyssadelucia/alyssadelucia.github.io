@@ -1,5 +1,5 @@
 ---
-title: Tutoring
+title: Tutoring Services
 layout: page
 menu: true
 order: 1

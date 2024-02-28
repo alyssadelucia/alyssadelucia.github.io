@@ -9,7 +9,7 @@ title: About
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  Chemistry PhD candidate at the University of Illinois at Urbana-Champaign.
+  Chemistry PhD
 
 # You can show the description on the page by deleting this line:
 hide_description: true
