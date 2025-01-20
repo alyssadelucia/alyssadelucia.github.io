@@ -1,5 +1,5 @@
 ---
-redirect_to: /assets/AD_CV_09-11-22.pdf
+redirect_to: /assets/cv.pdf
 title: Curriculum Vitae 
 menu: true
 order: 2

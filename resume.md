@@ -1,5 +1,5 @@
 ---
-redirect_to: /assets/AD_Resume_9-11-22.pdf
+redirect_to: /assets/delucia_resume.pdf
 title: Résumé
 menu: true
 order: 2
